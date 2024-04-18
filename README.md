@@ -5,7 +5,7 @@ Spotify Party is a collaborative music platform that brings friends together to 
 
 ## Key Features
 - **Collaborative Playlist Creation:** Users can create playlists and invite friends to collaborate, adding songs and curating the perfect party mix.
-- **Real-Time Music Sync:** Enjoy synchronized playback with friends, ensuring everyone hears the same song at the same time, regardless of location.
+- **Real-Time Music Sync:** Enjoy synchronized playback with friends, ensuring everyone hears the same song at the same time, regardless of the location.
 - **Discover New Music:** Explore curated playlists and discover new tracks based on your listening preferences and friends' recommendations.
 - **Seamless Integration:** The application seamlessly integrates with the Spotify API, allowing users to access their favorite songs and playlists directly within the platform.
 
